@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+
+
+.container{
+    background-color: #FFC145;
+    height: 100svh;
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contador{
+border: solid 1px black;
+width: 600px;
+height: 300px;
+margin: auto;
+padding: 25px;
+text-align: center;
+background: #FFFFFB;
+border-radius: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.contador h1{
+    font-size: 3rem;
+}
+.contador h2{
+    font-size: 6rem;
+}
+
+body{
+background: #FFC145;
+ 
+
+   
+
+}
